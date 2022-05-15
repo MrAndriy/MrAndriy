@@ -7,7 +7,9 @@ I'm Andriy.
 <h4>📕 My Latest</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [jedy-shop on React - working 😤](https://github.com/MrAndriy/Online_shop_React)
+
+- [app with analytic of click per link](https://github.com/MrAndriy/Click-statistics-MERN)
+- [jedy-shop on React](https://github.com/MrAndriy/Online_shop_React)
 - [Simple todo on React](https://github.com/MrAndriy/Todo_on_React)
 - [egghead React by Kentcdodds](https://github.com/MrAndriy/Egghead-react)
 - [script jedy course by <a href='https://github.com/koldovsky'>Vyacheslav Koldovskiy</a>](https://github.com/MrAndriy/script-jedi-42)
