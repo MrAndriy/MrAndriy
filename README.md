@@ -8,6 +8,8 @@ I'm Andriy.
 
 <!-- BLOG-POST-LIST:START -->
 
+- [FreecodeCamp New Responsive Web Design](https://github.com/MrAndriy/FreecodeCamp)
+- [Portfolio website](https://github.com/MrAndriy/Portfolio_Website)
 - [app with analytic of click per link](https://github.com/MrAndriy/Click-statistics-MERN)
 - [jedy-shop on React](https://github.com/MrAndriy/Online_shop_React)
 - [Simple todo on React](https://github.com/MrAndriy/Todo_on_React)
