@@ -38,4 +38,4 @@
 
 ### Last passed courses
 - [x] [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
-- [ ] [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js)
+- [x] [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js)
